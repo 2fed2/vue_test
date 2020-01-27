@@ -1,0 +1,23 @@
+{
+  "name": "fms",
+  "version": "1.0.0",
+  "description": "My striking Nuxt.js project",
+  "author": "Kalinin A",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "element-ui": "^2.12.0",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.0",
+    "vuescroll": "^4.14.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
